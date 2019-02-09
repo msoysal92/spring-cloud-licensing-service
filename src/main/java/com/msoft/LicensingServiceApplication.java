@@ -1,4 +1,4 @@
-package com.msoft.application;
+package com.msoft;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
